@@ -25,7 +25,7 @@ Welcome to my development portfolio! This repository tracks my progress from bas
 1. Ensure you have the [Dart SDK](https://dart.dev/get-dart) installed.
 2. Clone the repo:
    ```bash
-   git clone [https://github.com/javaria-gul/Flutter-Dart-Projects.git]
+   git clone https://github.com/javaria-gul/Flutter-Dart-Projects.git
    ```
  3.Navigate to the folder and run:
 
